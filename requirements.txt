@@ -1,0 +1,6 @@
+google-api-python-client
+handout
+markdown
+matplotlib
+oauth2client
+pandas

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# History files
+.history/
+
+*.csv
+*.ipynb
