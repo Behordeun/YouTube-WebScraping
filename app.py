@@ -72,6 +72,4 @@ myyoutube = pd.DataFrame.from_dict(res)
 # %%
 myyoutube.to_csv(f"{channel_name}.csv", index=False, header=True)
 
-
-
 # %%
