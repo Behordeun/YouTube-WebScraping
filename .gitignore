@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # History files
-.history/
+.history
 
 *.csv
 *.ipynb

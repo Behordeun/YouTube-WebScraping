@@ -20,7 +20,8 @@ Run the following commands on your terminal
 1. First clone this repository into a directory of choice by running `git clone https://github.com/Behordeun/YouTube-WebScraping.git`
 2. Therafter navigate to the cloned directory `cd YouTube-WebScraping`
 3. create a file **.env** `touch .env`; paste in your **YouTube API** key into the created environment variable. It should look like this `DEVELOPER_KEY = 'YOURKEY'`
-4. Run this command `Python app.py`
+4. Install the dependencies by running `pip install -r requirements.txt` or `python -m pip install -r requirements.txt`
+5. Run this command `Python app.py`
 
 You will get a prompt from your terminal to type in the target channel name, and voila, the data will be scrapped shortly, and you can find the converted CSV file the current directory.
 
