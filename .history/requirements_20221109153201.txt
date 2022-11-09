@@ -1,5 +1,0 @@
-google-api-python-client
-handout
-markdown
-oauth2client
-pandas
