@@ -33,6 +33,6 @@ I currently work at Tsaron Technologies Limited, an InsureTech startup company w
 
 The purpose of this project is to understand, analyse and evaluate media campaigns by companies through youtube, thanks to AnalyticsVydia for the code snippet. I will be analysing the result of my queries with Microsoft PowerBI. I chose Infinix because I have been using the phone model for quite sometime now, and will like to explore their level of media engagement!!
 
-Thanks for reading my code and you can as well run your code with google API. `</p>`
+Thanks for reading my code and you can as well run your code with google API.
 
-You can follow me on [LinkedIn](`https://www.linkedin.com/in/muhammad-abiodun-sulaiman`) or [Twitter](`www.twitter.com/Prince_Analyst`) or [Medium](https://www.medium.com/@behordeun) for more interestingarticles and projects from me.
+You can follow me on [LinkedIn](https://www.linkedin.com/in/muhammad-abiodun-sulaiman) or [Twitter](www.twitter.com/Prince_Analyst) or [Medium](https://www.medium.com/@behordeun) for more interestingarticles and projects from me.
